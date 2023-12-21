@@ -1,0 +1,1 @@
+C:\Users\lizaruzova\Desktop\projects\auto-and-deploy\venv\scripts\python.exe C:\Users\lizaruzova\Desktop\projects\auto-and-deploy\generate-sales-data.py
